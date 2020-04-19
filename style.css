@@ -1,0 +1,70 @@
+body{
+    background-color:rgb(233, 255, 233);
+}
+#hi{
+    text-align: center;
+    background-color: rgb(21, 228, 217);
+}
+a:link{
+    text-decoration: none;
+    
+}
+#header{
+
+background-image: url(img/Spotify-Header.png);
+background-repeat: no-repeat;
+background-size: 95% 75%;
+background-position: center;
+background-attachment: scroll;
+}
+h1{
+    
+    position: relative;
+}
+button{
+    background-color: lightgreen;
+    border: none;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+#about{
+    font-family: sans-serif;
+    font-size: 41px;
+    color: rgb(17, 124, 17);
+}
+#hello{
+    
+    text-decoration: none;
+    font-size: 22px;
+    margin: 0px 80px;
+    text-align: justify;
+    text-align-last: center;
+    color: black;
+}
+#suggestions{
+    font-family: sans-serif;
+    font-size:35px;
+    color: rgb(17, 124, 17);
+}
+ol#lista{
+    
+    font-size: 32px;
+    color: rgb(187, 7, 82);
+    font-family: 'Segoe UI';
+    list-style-type: decimal-leading-zero;
+    list-style-position: inside;
+    
+}
+#artistas{
+    font-family: sans-serif;
+    font-size: 35px;
+    color:rgb(17, 124, 17);
+}
+table#tabela{
+    color: black;
+}
+#fim{
+    font-size: 20px;
+    text-decoration: underline;
+}
